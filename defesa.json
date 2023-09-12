@@ -205,6 +205,7 @@
          "address":"Av. António Augusto de Aguiar 31, 1069-413",
          "postcode":"1069-413",
          "county":"Lisboa",
+         "custo_de_construcao_em_euros": null,
          "photos":[
             "https://festadocinemaitaliano.com/library/media/715",
             "http://convida.pt/images/POIs/UCIcinema_ECI_01.jpg",
